@@ -1,0 +1,7 @@
+{
+  "name": "drupal/image_url_formatter",
+  "type": "drupal-module",
+  "keywords": ["Drupal"],
+  "minimum-stability": "dev",
+  "require": { }
+}
